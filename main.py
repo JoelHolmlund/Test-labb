@@ -3,7 +3,7 @@ warnings.filterwarnings("ignore")
 from google import genai
 client = genai.Client(api_key="AIzaSyCWNOvl1WTnp_MicqJ13tvWlNnkLI1YxcM")
 
-print('ehehehehe')
+print('eheheheheffffffffffffffffff')
 
 def lista_modeller():
     print ("--- Mina tillgängliga modeller ---")
